@@ -2,6 +2,8 @@
 ## Title
 Readme Generator
 
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
 ## Table of Contents
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
@@ -25,7 +27,7 @@ node index.js
 Pooja Agarwal
 
 ## Test Instructions
-Test that the generated readme file has the right sections .
+Test that the generated readme file has the right sections.
 
 ## License
 MIT

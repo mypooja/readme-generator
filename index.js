@@ -67,6 +67,8 @@ const generateReadMe = ({ title, description, instructions, usage, guidelines, t
 ## Title
 ${title}
 
+![badge](https://img.shields.io/badge/license-${license}-brightgreen)<br />
+
 ## Table of Contents
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
